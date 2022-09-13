@@ -1,0 +1,45 @@
+groups:
+  default:
+    options:
+      default: true
+      prefix: '&a[PLAYER]&f '
+    permissions:
+    - modifyworld.*
+    - woodcutter.use
+    - easywarp.command.warp
+    - easywarp.command.listwarps
+    - easywarp.warp.spawn
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.sethome
+    - essentials.sethome.multiple.default
+    - essentials.delhome
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.help
+    - essentials.build
+    - essentials.balancetop
+    - essentials.balance
+    - essentials.home
+    - essentials.worlds.world
+    - essentials.hat
+    - craftbukkitlogin.register
+    - minecraft.command.whitelist
+    - deadchest.generate
+    - ChestShop.shop.create
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - essentials.backup	
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.pay
+    - essentials.pay.multiple
+    - essentials.payconfirmtoggle
+    - essentials.paytoggle
+    - multiverse.portal.access.portal_world_to_victorian
+    - multiverse.portal.access.portal_victorian_to_world
+    - multiverse.portal.access.world_default
+schema-version: 1
+
