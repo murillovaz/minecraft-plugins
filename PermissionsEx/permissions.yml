@@ -38,9 +38,8 @@ groups:
     - essentials.pay.multiple
     - essentials.payconfirmtoggle
     - essentials.paytoggle
-    - multiverse.portal.access.portal_world_to_victorian
-    - multiverse.portal.access.portal_victorian_to_world
-    - multiverse.portal.access.world_default
+    - multiverse.portal.access.world_to_world_shop
+    - multiverse.portal.access.world_shop_to_world
     - wildloaders.use
 schema-version: 1
 
