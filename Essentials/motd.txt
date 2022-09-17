@@ -1,4 +1,0 @@
-&Bem-vindo, {PLAYER}&6!
-&6Digite &c/help&6 para ver uma lista de comandos.
-&6Digite &c/list&6 para ver quem mais está online.
-&6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}

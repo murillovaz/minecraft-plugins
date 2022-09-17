@@ -41,5 +41,6 @@ groups:
     - multiverse.portal.access.portal_world_to_victorian
     - multiverse.portal.access.portal_victorian_to_world
     - multiverse.portal.access.world_default
+    - wildloaders.use
 schema-version: 1
 

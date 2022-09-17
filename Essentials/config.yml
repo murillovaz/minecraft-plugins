@@ -589,7 +589,7 @@ command-costs:
   # /example costs $1000 PER USE
   home: 50
   tpa: 70
-  warp: 10
+  warp: 40
   # /kit tools costs $1500 PER USE
   #kit-tools: 1500
 
